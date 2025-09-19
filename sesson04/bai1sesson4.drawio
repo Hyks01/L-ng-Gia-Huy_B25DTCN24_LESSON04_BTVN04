@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Trang-1" id="WhjpFiGbxGezrZtWosSa">
+    <mxGraphModel dx="1389" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B76PfKZ5bS8IVvXuspf0-1" target="NYVmDlEKUvMCVWEbiJB5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B76PfKZ5bS8IVvXuspf0-1" value="bắt đầu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="80" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYVmDlEKUvMCVWEbiJB5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-2" value="chọn món ăn từ menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYVmDlEKUvMCVWEbiJB5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-7" value="xác nhận món ăn trong giỏ hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYVmDlEKUvMCVWEbiJB5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="394" y="485" />
+              <mxPoint x="395" y="485" />
+              <mxPoint x="395" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-9" value="cung cấp địa chỉ và thanh toán" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYVmDlEKUvMCVWEbiJB5-11" target="NYVmDlEKUvMCVWEbiJB5-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-11" value="nhận món ăn tại địa chỉ đã cung cấp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVmDlEKUvMCVWEbiJB5-13" value="kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
